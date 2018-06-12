@@ -1,0 +1,16 @@
+{
+    "name": "spipremix/notifications",
+    "homepage": "https://contrib.spip.net/Notifications",
+    "description": "Envoyer des mails quand les gens s’expriment dans le forum de l’espace privé, sous un article, ou dans la messagerie personnelle",
+    "type": "spip-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Fil",
+            "email": "fil@rezo.net"
+        }
+    ],
+    "require": {
+        "spipremix/facteur": "^3.5"
+    }
+}

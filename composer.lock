@@ -1,0 +1,49 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "939f9e16b2354e923945a8369e972649",
+    "packages": [
+        {
+            "name": "spipremix/facteur",
+            "version": "3.5.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spipremix/facteur.git",
+                "reference": "9cdca595d1f8f9a66c29e5c74e8666d81ebc65ca"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spipremix/facteur/zipball/9cdca595d1f8f9a66c29e5c74e8666d81ebc65ca",
+                "reference": "9cdca595d1f8f9a66c29e5c74e8666d81ebc65ca",
+                "shasum": ""
+            },
+            "provide": {
+                "phpmailer/phpmailer": "5.2.6"
+            },
+            "type": "spip-plugin",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Collectif SPIP"
+                }
+            ],
+            "description": "Il distribue votre courrier",
+            "homepage": "https://contrib.spip.net/Facteur",
+            "time": "2018-06-12T18:01:20+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
